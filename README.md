@@ -1,14 +1,21 @@
-# my custom arch linux desktop environment
-
-I wasn't happy with the windows user interface, so I decided I would make my own :)
-
 ![Alt text](img/desktop.jpg?raw=true "My Desktop Environment")
 
-| Component       | Package   |
-| --------------- |:---------:|
-| Display Server  | [X11](https://www.x.org/wiki/) |
-| Windows Manager | [i3-gaps](https://github.com/Airblader/i3) |
-| Terminal        | [Alacritty](https://github.com/alacritty/alacritty) |
-| Compositor      | [Picom](https://github.com/yshui/picom) |
-| Dock            | [Polybar](https://github.com/polybar/polybar) |
-| Font            | [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts) |
+| component              | pacakge                                                   |
+| ---------------------- |:---------------------------------------------------------:|
+| display server         | [X11](https://www.x.org/wiki/)                            |
+| tiling window manager  | [i3-gaps](https://github.com/Airblader/i3)                |
+| terminal               | [alacritty](https://github.com/alacritty/alacritty)       |
+| text editor            | [neovim](https://neovim.io/)                              |
+| compositor             | [picom](https://github.com/yshui/picom)                   |
+| dock                   | [polybar](https://github.com/polybar/polybar)             |
+| font                   | [hack nerd font](https://github.com/ryanoasis/nerd-fonts) |
+| color theme            | [gruvbox-dark](https://github.com/morhetz/gruvbox)        |
+
+
+# why went through the effort?
+
+Honestly? I wasn't happy with Windows 10 UI/UX:
+
+ - It was too cluttered
+ - Inconsistent menu themes
+ - Poor multi-tasking capabilities
