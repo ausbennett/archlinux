@@ -1,6 +1,6 @@
 ![Alt text](img/desktop.jpg?raw=true "My Desktop Environment")
 
-| component              | pacakge                                                   |
+| component              | package                                                   |
 | ---------------------- |:---------------------------------------------------------:|
 | display server         | [X11](https://www.x.org/wiki/)                            |
 | tiling window manager  | [i3-gaps](https://github.com/Airblader/i3)                |
